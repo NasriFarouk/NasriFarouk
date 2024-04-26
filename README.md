@@ -7,7 +7,7 @@
     🌱 I’m currently learning Chinese.
     🤔 I’m looking to learn more about Software Development and machine learning.
     💬 You can ask me about: Anything ! I am always happy to engage into a conversation . 
-    ⚡ Fun fact about me : I majored in Data Science and digitalisation but I love software engineering 😅.
+    ⚡ Fun fact about me : I watched over 1000 animes 😃.
         
 
 <h3 align="center">Connect with me:</h3>
