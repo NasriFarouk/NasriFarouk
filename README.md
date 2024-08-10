@@ -3,7 +3,7 @@
 <h3 align="center">I studied at @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a> and @<a href="https://centrale-casablanca.ma/en/" target="_blank">École Centrale de Casablanca</a></h3>
 
 
-    🔭 I’m currently working on a birthday webapp as a surprise.
+    🔭 I’m currently working on improving my knowledge and coding skills.
     🌱 I’m currently learning Chinese.
     🤔 I’m looking to learn more about Software Development and machine learning.
     💬 You can ask me about: Anything ! I am always happy to engage into a conversation . 
