@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/farouk-nasri/?locale=en_US" target="_blank">Farouk NASRI</a></h1>
-<h3 align="center">Software Developpement Engineer Intern at @<a href="https://spacefill.eu/fr/" target="_blank">Spacefill</a> </h3> 
+<h3 align="center">Fullstack Software Developpement Engineer at @<a href="https://spacefill.eu/fr/" target="_blank">Spacefill</a> </h3> 
 <h3 align="center">I studied at @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a> and @<a href="https://centrale-casablanca.ma/en/" target="_blank">École Centrale de Casablanca</a></h3>
 
 
