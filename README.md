@@ -3,11 +3,11 @@
 <h3 align="center">I studied at @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a> and @<a href="https://centrale-casablanca.ma/en/" target="_blank">École Centrale de Casablanca</a></h3>
 
 
-    🔭 I’m currently working on improving my knowledge and coding skills.
-    🌱 I’m currently learning Chinese.
-    🤔 I’m looking to learn more about Software Development and machine learning.
+    🏆 I’m currently working on my own anime tracking website but with a competitive twist: @<a href="https://otakuLeague.com" target="_blank">otakuLeague</a>.it is still in early dev stage but i am happy with how it turned out to be so far !
+    愛 I’m currently learning Chinese, spoiler it is not going so well 😆.
+    💭 My dream is to open my own company one day that is related to one of passions : Gaming / Anime . 
     💬 You can ask me about: Anything ! I am always happy to engage into a conversation . 
-    ⚡ Fun fact about me : I watched over 1000 animes 😃.
+    🤪 Fun fact about me : I watched over 1000 animes, and have more than 1000 hours on league of legends.
         
 
 <h3 align="center">Connect with me:</h3>
