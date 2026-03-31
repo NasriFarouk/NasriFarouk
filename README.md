@@ -19,10 +19,8 @@
 
 <p align="center">
   🏆 I’m currently building my own anime tracking website with a competitive twist:
-  @<a href="https://otakuleague.com" target="_blank">OtakuLeague</a>.
-  It’s still in an early development stage, but I’m happy with how it’s turning out so far!<br/>
-  愛 I’m currently learning Chinese… spoiler: it’s not going so well 😆<br/>
-  💭 My dream is to one day start my own company related to one of my passions: gaming or anime.<br/>
+  @<a href="https://otakuleague.com" target="_blank">OtakuLeague</a>.<br/>
+  愛 I can speak a little bit of chinese for some reason<br/>
   💬 You can ask me about anything! I’m always happy to chat.<br/>
   🤪 Fun fact: I’ve watched over 1,000 anime and have more than 1,000 hours on League of Legends.
 </p>
