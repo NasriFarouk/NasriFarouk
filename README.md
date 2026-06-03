@@ -20,7 +20,7 @@
 <p align="center">
   🏆 I’m currently building my own anime tracking website with a competitive twist:
   @<a href="https://otakuleague.com" target="_blank">OtakuLeague</a>.<br/>
-  愛 I can speak a little bit of chinese for some reason<br/>
+  愛 I can speak a little bit of chinese<br/>
   💬 You can ask me about anything! I’m always happy to chat.<br/>
   🤪 Fun fact: I’ve watched over 1,000 anime and have more than 1,000 hours on League of Legends.
 </p>
